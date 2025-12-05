@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☀️ IPPS - Igreja Presbiteriana Portal do Sol
+# IPPS - Igreja Presbiteriana Portal do Sol
 
 **Landing Page oficial da Igreja Presbiteriana Portal do Sol**
 
@@ -16,16 +16,7 @@
 
 ---
 
-## ✨ Funcionalidades
-
-- 🏠 **Hero Section** - Apresentação impactante da igreja
-- 📖 **Quem Somos** - História e valores da IPPS
-- 🕐 **Horários de Culto** - Programação atualizada
-- 🤖 **Palavra de Esperança** - Mensagens personalizadas com IA (Google Gemini)
-- 📍 **Localização** - Mapa interativo e informações de contato
-- 📱 **Design Responsivo** - Otimizado para todos os dispositivos
-
-## 🚀 Tecnologias
+## Tecnologias
 
 - **React 19** + **TypeScript**
 - **Vite** - Build tool
@@ -33,7 +24,7 @@
 - **Google Gemini AI** - Geração de mensagens
 - **Vercel** - Hospedagem
 
-## 💻 Rodando Localmente
+## Rodando Localmente
 
 ### Pré-requisitos
 
@@ -66,7 +57,7 @@ npm run dev
 | `npm run build` | Gera build de produção |
 | `npm run preview` | Visualiza build localmente |
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 ├── components/       # Componentes React
@@ -76,7 +67,7 @@ npm run dev
 └── index.html        # Entry point
 ```
 
-## ⚙️ Configuração
+## Configuração
 
 Edite o arquivo `config/church.ts` para personalizar:
 - Nome e slogan da igreja
@@ -85,7 +76,7 @@ Edite o arquivo `config/church.ts` para personalizar:
 - Redes sociais
 - Logo (quando disponível)
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
