@@ -129,7 +129,7 @@ export const Footer: React.FC = () => {
               © {currentYear} {churchConfig.name}. Todos os direitos reservados.
             </p>
             <p className="text-brand-400 text-sm flex items-center gap-1">
-              Feito com <Heart size={14} className="text-brand-500 fill-current" /> em {churchConfig.address.city}
+              Min. de TI da IPPS <Heart size={14} className="text-brand-500 fill-current" /> {churchConfig.address.city}
             </p>
           </div>
         </div>
