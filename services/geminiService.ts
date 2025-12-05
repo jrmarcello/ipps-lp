@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const API_KEY = process.env.API_KEY || '';
+const API_KEY = import.meta.env.VITE_API_KEY || '';
 
 // We create the client lazily or check for key existence to prevent immediate crashes if key is missing,
 // though the prompt implies the key is available.
